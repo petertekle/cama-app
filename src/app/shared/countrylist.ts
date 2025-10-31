@@ -228,7 +228,8 @@ export  const Country: any[] =  [
 'Western Sahara',
 'Yemen',
 'Zambia',
-'Zimbabwe'
+'Zimbabwe',
+'Zanzibar'
 
 ]
 
